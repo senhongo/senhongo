@@ -6,7 +6,7 @@ I'm not accepting any work for the remainder of 2025.
 
 Learn more about me at [senhongo.com]!
 
-Previous projects
+Previously worked on:
 - [Chubic]
 - [fundbook]
 - [Strap]
